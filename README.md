@@ -212,10 +212,10 @@ Puedes agregar aquí capturas:
 
 ```md
 
-![image alt](https://github.com/carlosguerrero9923/Proyecto_Analsis_Rentabilidad_Movil/blob/695103e876913cedd27b211862f36ab21396b57a/Distribucion%20de%20trafico%20de%20internet.png)
+![Distribución de tráfico de internet](https://github.com/carlosguerrero9923/Proyecto_Analsis_Rentabilidad_Movil/raw/695103e876913cedd27b211862f36ab21396b57a/Distribucion%20de%20trafico%20de%20internet.png)
 
+![EDA](https://github.com/carlosguerrero9923/Proyecto_Analsis_Rentabilidad_Movil/raw/92aeea40a39572d6bc56dc43d4da2544f3b73280/Distribucion%20de%20trafico%20de%20internet.png)
 
-![EDA]([images/eda.png](https://github.com/carlosguerrero9923/Proyecto_Analsis_Rentabilidad_Movil/blob/92aeea40a39572d6bc56dc43d4da2544f3b73280/Distribucion%20de%20trafico%20de%20internet.png))
 ```
 
 ---
