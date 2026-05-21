@@ -221,20 +221,6 @@ Puedes agregar aquí capturas:
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
-
-```bash
-git clone https://github.com/tuusuario/proyecto.git
-
-cd proyecto
-
-pip install -r requirements.txt
-
-jupyter notebook
-```
-
----
-
 ## 👨‍💻 Autor
 
 **Carlos Guerrero**
