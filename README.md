@@ -211,7 +211,8 @@ Esto demuestra la importancia del análisis de datos para comprender el verdader
 Puedes agregar aquí capturas:
 
 ```md
-<img width="1671" height="782" alt="image" src="https://github.com/user-attachments/assets/72bf3731-9cf5-49af-ba90-0d850256d59e" />
+
+ ![image alt]()
 
 
 ![EDA](images/eda.png)
