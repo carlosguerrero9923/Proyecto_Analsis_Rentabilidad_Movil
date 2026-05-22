@@ -212,10 +212,15 @@ Puedes agregar aquí capturas:
 
 ```md
 
-<img width="842" height="398" alt="Ingresos promedio moviles " src="https://github.com/user-attachments/assets/2c7175b7-6237-426c-84d2-83b878d2ed6e" />
+<div align="center">
 
-<img width="989" height="590" alt="Distribucion de trafico de internet" src="https://github.com/user-attachments/assets/b59406df-0ee4-4073-a5d1-73a3fe343955" />
+<h3>📊 Ingresos promedio por plan</h3>
+<img src="images/ingresos_promedio_moviles.png" width="850">
 
+<h3>🌐 Distribución de tráfico de internet</h3>
+<img src="images/distribucion_trafico_internet.png" width="850">
+
+</div>
 
 ```
 
