@@ -227,8 +227,6 @@ Puedes agregar aquí capturas:
 
 Administrador de Negocios Internacionales → Data Analyst
 
-LinkedIn: [linkedin.com/in/carlosguerrero9923]
-
-GitHub: [github.com]
-
 📊 Python | SQL | Visualización | Estadística | Storytelling con datos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Guerrero-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/carlosguerrero9923)
