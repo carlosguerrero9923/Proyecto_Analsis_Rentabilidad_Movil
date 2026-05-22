@@ -210,19 +210,17 @@ Esto demuestra la importancia del análisis de datos para comprender el verdader
 
 Puedes agregar aquí capturas:
 
-```md
-
 <div align="center">
 
-<h3>📊 Ingresos promedio por plan</h3>
-<img src="images/ingresos_promedio_moviles.png" width="850">
+### 📊 Ingresos promedio por plan
 
-<h3>🌐 Distribución de tráfico de internet</h3>
-<img src="images/distribucion_trafico_internet.png" width="850">
+<img src="./images/ingresos_promedio_moviles.png" width="800">
+
+### 🌐 Distribución de tráfico de internet
+
+<img src="./images/distribucion_trafico_internet.png" width="800">
 
 </div>
-
-```
 
 ---
 
